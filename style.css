@@ -131,8 +131,8 @@ nav ul li a{
 .col img{
     object-fit: fill;
     margin: auto;
-    width:250px;
-    height: 200px;
+    width:280px;
+    height: 350px;
     justify-content: space-between;
     cursor:pointer;
     padding: 0;
